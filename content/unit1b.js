@@ -172,7 +172,7 @@
     apply:{ title:'Labor, Quest, Show', intro:`<p>Go to the Labor page (Unit 1 → Labor 1). Then the Quest page. Then the living room.</p>`,
       steps:[`Labor 1: The Catch. Paper first for every part.`,`Sheets proof: a table with t from 0 to 15, Yamal and Ronaldo columns, a chart, and the row where Yamal pulls ahead highlighted.`,`Quest 2: clue 1 is on the Quest page.`,`Family show: two tricks, both explained after.`,`Beat Dad Week 3, then check the cloud chip says <b>saved</b>.`],
       checklist:[`Labor 1 complete (Cartographer badge)`,`Sheets proof with chart`,`Quest 2: box opened`,`Show performed and explained`,`Beat Dad Week 3 done and progress saved`],
-      dad:`Quest 2 setup is on the Quest page in Dad mode. Award Willman for the show if the Oracle trick is explained (it's substitution: he solved the crossing before you graphed it). This is a good night to print his Unit 1 Codex page and put it on the fridge.`
+      dad:`Quest 2 setup is on the Quest page in Teacher mode. Award Willman for the show if the Oracle trick is explained (it's substitution: he solved the crossing before you graphed it). This is a good night to print his Unit 1 Codex page and put it on the fridge.`
     },
   }
   );

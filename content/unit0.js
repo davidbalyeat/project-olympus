@@ -47,7 +47,7 @@ OLY.units.push({
         `<b>Claude.</b> Dad sets up your tutor (see Dad notes). Your first prompt: "I'm starting a math program. Give me one hint, not the answer, for this: 1,000 ÷ 25." See what it does.`,
         `<b>Perform the trick</b> on one family member tonight. Tomorrow, on a second one. Willman badge on the line: perform it AND explain the n-table.`],
       checklist:[`Codex page started with three definitions`,`Trick written out with the n-table`,`Calculator: found ^, x², parentheses, and the ×10<sup>n</sup> key`,`Asked Claude for a hint (not an answer) and it obeyed`],
-      dad:`Create a Claude Project for Hudson (or a saved custom instruction) and paste in the tutor profile from the Parent Guide appendix. Test it yourself first: ask it to solve 3x + 2 = 17 and confirm it gives hints, not the answer, until you've tried twice. Set the Dad PIN in this workbench (top-right chip). Tonight: let him perform the trick on you. Act amazed. Then ask "why does it work?" and don't accept "because math."`
+      dad:`Create a Claude Project for Hudson (or a saved custom instruction) and paste in the tutor profile from the Parent Guide appendix. Test it yourself first: ask it to solve 3x + 2 = 17 and confirm it gives hints, not the answer, until you've tried twice. Teacher mode is the chip in the top right; it only appears when you are signed in as David or John. Tonight: let him perform the trick on you. Act amazed. Then ask "why does it work?" and don't accept "because math."`
     },
   },
   // ---------------------------------------------------------------- S2
@@ -148,9 +148,9 @@ OLY.units.push({
         hints:[`Compute it yourself; you just did.`], sol:`68,921. The AI swapped two digits. That's exactly the kind of small, confident error you'll catch all year.` },
     ],
     apply:{ title:'Labor 0 and Quest 1', intro:`<p>Two things today, in this order:</p>`,
-      steps:[`<b>Labor 0: The Fermi Falcon.</b> Go to the Labor page (Unit 0 → Labor 0). Four parts, no hints. Beat it and the Initiate badge is yours.`,`<b>Quest 1.</b> Dad has hidden the clues. Clue 1 is on the Quest page. Pencil and brain only.`,`<b>Perform the trick.</b> Two people. Explain it. Willman badge.`,`<b>Check the cloud chip</b> at the top of the page says <b>saved</b>. Your progress follows you to any computer with your name and PIN. (If the chip says offline, use Progress → Save progress file as a backup.)`],
+      steps:[`<b>Labor 0: The Fermi Falcon.</b> Go to the Labor page (Unit 0 → Labor 0). Four parts, no hints. Beat it and the Initiate badge is yours.`,`<b>Quest 1.</b> Dad has hidden the clues. Clue 1 is on the Quest page. Pencil and brain only.`,`<b>Perform the trick.</b> Two people. Explain it. Willman badge.`,`<b>Check the cloud chip</b> at the top of the page says <b>saved</b>. Your progress follows you to any computer: just pick your name. (If the chip says offline, use Progress → Save progress file as a backup.)`],
       checklist:[`Labor 0 complete (Initiate badge)`,`Quest 1: box opened`,`Trick performed for two people and explained`,`Progress file saved`],
-      dad:`Quest 1 setup is on the Quest page in Dad mode (answers, hiding spots, lock combo). Print the clue cards from there. Put something real in the box: a treat, a new cube, cash for the calculator. The lock should be a cheap 3-digit luggage lock or a dial padlock; both work with the numbers given. Award the Willman badge from the Badges page if the explanation lands.`
+      dad:`Quest 1 setup is on the Quest page in Teacher mode (answers, hiding spots, lock combo). Print the clue cards from there. Put something real in the box: a treat, a new cube, cash for the calculator. The lock should be a cheap 3-digit luggage lock or a dial padlock; both work with the numbers given. Award the Willman badge from the Badges page if the explanation lands.`
     },
   },
   ],
